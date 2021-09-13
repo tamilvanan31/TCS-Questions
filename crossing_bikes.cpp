@@ -27,3 +27,14 @@ int main()
     cout << ans;
 	return 0;
 }
+/*
+Sample Test case: 
+Input: 
+5
+0 1 0 1 1
+Output: 
+5 
+Exaplanation: 
+there are 5 pairs of (0, 1) i.e., (arr[0], arr[1]), (arr[0], arr[2]), (arr[0], arr[3]), (arr[2], arr[3]), (arr[2], arr[4])
+0 < 1 as N < S.
+*/
