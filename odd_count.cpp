@@ -22,3 +22,9 @@ int main()
 
     return 0;
 }
+/*
+Sample test case: 
+IP: rbggb
+OP: r
+Explanation: r has frequency 1, which is odd. 
+*/
